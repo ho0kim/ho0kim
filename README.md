@@ -4,15 +4,12 @@
 <a href="mailto:hoyoung7413@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hoyoung7413@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
-🔧 I'm working at Hyundai-autoever 🙀.
-
 #### Current job 🏃.  
 Technical Arch.  
 Cloud/On-pre infra Arch.
 
 
-#### ✏️ I'm currently learning...
+#### ✏️ I'm learning...
 <p>
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/>
