@@ -11,10 +11,10 @@ Cloud/On-pre infra Arch.
 
 #### ✏️ I'm learning...
 <p>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo="Apache Hadoop"&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo="Apache Spark"&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo="Apache Airflow"&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo="Apache Hive"&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=white"/>
 <img src="https://img.shields.io/badge/Modern Infra.-00A82D?style=flat-square&logoColor=white"/>
 </p>
 
